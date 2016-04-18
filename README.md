@@ -8,5 +8,5 @@ This is an assignment for Uni
             - Enterprise Java Beans 
             - MySQL
             - Bootstrap
-  
+  -
 - 
